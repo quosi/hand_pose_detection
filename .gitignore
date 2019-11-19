@@ -105,6 +105,6 @@ venv.bak/
 
 # project and workspace related
 documentation.txt
-.idea/workspace.xml
+.idea/
 .DS_Store
 
